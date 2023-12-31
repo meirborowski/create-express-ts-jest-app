@@ -1,7 +1,7 @@
 {
   "name": "create-express-ts-jest-app",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Create Express TypeScript Jest App: Quickly generate an Express.js project with TypeScript and Jest for building robust web applications.",
   "main": "index.js",
   "scripts": {
     "start": "node dist/index.js",
